@@ -1,0 +1,8 @@
+# Synonyms
+User will be able to make sentences using the words displayed to the user.
+
+Select the words displayed on the buttons and after you have made the sentence using all the words from the buttons displayed, click on check whether the sentence you made was correct or not.
+
+As of now, all the 3 levels have the same sentences...They can be changed by the user...It only contains sample data.
+
+Data can be added simply in json file.
